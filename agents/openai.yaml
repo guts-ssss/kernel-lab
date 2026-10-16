@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kernel Lab"
+  short_description: "Explore, validate, and release compute-kernel improvements"
+  default_prompt: "Use $kernel-lab to develop this kernel through measured trials and deliver a verified implementation with reproducible evidence."
